@@ -1,7 +1,7 @@
 # Sorting-Alogrithms-Visualiser
-Visulaing the various sorting Algorithms using C++ and graphics.h
+Visualising the various sorting Algorithms using C++ and graphics.h
 
-The visualiser is made for :-
+The visualizer made for the following algorithms :-
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
